@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Resource Vault - AI-Curated Resource Vault for Smarter Decisions",
-  description: "Resource Vault gives you access to a curated collection of AI-powered resources. Get instant, unbiased guidance — no salespeople, no pressure.",
+  title: "Resource Flow - AI-Curated Resource Flow for Smarter Decisions",
+  description: "Resource Flow gives you access to a curated collection of AI-powered resources. Get instant, unbiased guidance — no salespeople, no pressure.",
 };
 
 export default function RootLayout({
